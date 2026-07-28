@@ -1,0 +1,156 @@
+{
+  "club": {
+    "name": "Chess Năng Khiếu",
+    "term": "2025 - 2026",
+    "crest": "logoCNK.jpg",
+    "title": "Chess Năng Khiếu",
+    "favicon": "sth.png",
+    "tabTitle": "Kết Quả Leaders",
+    "shareDesc": "Kết quả tuyển chọn Leaders Chess Năng Khiếu 2026–2027",
+    "shareImage": "sth.png",
+    "subtitle": "Nhiệm kỳ 2025–2026",
+    "intro": "Kết quả tuyển chọn Leaders Chess Năng Khiếu 2026–2027",
+    "startButton": "Mở",
+    "images": {
+      "background": "",
+      "crest": ""
+    }
+  },
+  "lines": [
+    "Chào em,",
+    "Trong suốt những tháng qua, anh chị đã lặng lẽ theo dõi sự cố gắng của em",
+    "Mọi nỗ lực, mọi nhiệt huyết, mọi lần em cố gắng vì câu lạc bộ —",
+    "anh chị đều <em>thấy hết</em>",
+    "Và hôm nay, anh chị xin thông báo rằng..."
+  ],
+  "audio": {
+    "ambient": "backgroundmusic.mp3",
+    "celebration": "cele.mp3",
+    "volume": 0.1,
+    "muted": false
+  },
+  "blaster": {
+    "emoji": "✉️",
+    "instruction": "Chạm 5 lần để mở thư!",
+    "requiredTaps": 5
+  },
+  "reveal": {
+    "eyebrow": "Chúc mừng em",
+    "orgLine": "Chính thức trở thành <strong>Leaders</strong><br/>Chess Năng Khiếu — nhiệm kỳ 2026–2027",
+    "quote": "Cờ dạy cho con người ta sự kiên nhẫn — và em đã chứng minh mình có đủ sự kiên nhẫn ấy để đi đến hôm nay."
+  },
+  "members": [
+    {
+      "id": "phuoc",
+      "name": "Phạm Viết Thiên Phước",
+      "roles": ["Thành Viên Ban Chuyên Môn"],
+      "avatar": "",
+      "orgLine": "Chính thức trở thành <strong>Chủ Nhiệm</strong><br/>Chess Năng Khiếu — nhiệm kỳ 2026–2027",
+      "letter": "Phước à, anh chị tin rằng em sẽ là người dẫn dắt tập thể Core Team bằng chính sự tận tâm và tầm nhìn của mình. Cờ vua dạy người ta biết kiên nhẫn, biết tính trước từng nước đi — và anh chị tin em đã sẵn sàng. Hãy cứ tự tin, cứ chân thành, tập thể này sẽ đi cùng em."
+    },
+    {
+      "id": "duc",
+      "name": "Lê Xuân Phúc Đức",
+      "roles": ["Thành Viên Ban Chuyên Môn"],
+      "avatar": "",
+      "orgLine": "Chính thức trở thành <strong>Phó Chủ Nhiệm</strong><br/>Chess Năng Khiếu — nhiệm kỳ 2026–2027",
+      "letter": "Đức thân mến, em luôn là chỗ dựa vững chắc mà anh chị tin tưởng. Core Team năm nay sẽ cần một người biết lắng nghe, biết gánh vác — và em chính là người đó. Hãy giữ cái tâm bình của em, mọi thứ sẽ ổn."
+    },
+    {
+      "id": "yen",
+      "name": "Nguyễn Vương Xuân Yến",
+      "roles": ["Thành Viên Ban Chuyên Môn"],
+      "avatar": "",
+      "orgLine": "Chính thức trở thành <strong>Phó Chủ Nhiệm</strong><br/>Chess Năng Khiếu — nhiệm kỳ 2026–2027",
+      "letter": "Yến à, em mang đến một sự ấm áp rất riêng — điều mà một ban chủ nhiệm cần để giữ mọi người gắn kết. Anh chị tin em sẽ là cầu nối tuyệt vời giữa các ban và các thành viên. Cứ là chính em nhé."
+    },
+    {
+      "id": "mai",
+      "name": "Trần Ngọc Phương Mai",
+      "roles": ["Thành Viên Ban Nội Dung"],
+      "avatar": "",
+      "orgLine": "Chính thức trở thành <strong>Thành Viên Ban Chủ Nhiệm &amp; Trưởng Ban Nội Dung — Thiết Kế</strong><br/>Chess Năng Khiếu — nhiệm kỳ 2026–2027",
+      "letter": "Mai của anh chị, em gánh vác hai vai trò — và anh chị biết em làm được. Sự tỉ mỉ trong từng bản thiết kế, sự gọn gàng trong từng dòng nội dung đều là dấu ấn của em. Hãy cứ sáng tạo, cứ mạnh dạn, anh chị luôn ở phía sau."
+    },
+    {
+      "id": "thong",
+      "name": "Trần Cao Thông",
+      "roles": ["Thành Viên Ban Chuyên Môn"],
+      "avatar": "",
+      "orgLine": "Chính thức trở thành <strong>Thành Viên Ban Chủ Nhiệm</strong><br/>Chess Năng Khiếu — nhiệm kỳ 2026–2027",
+      "letter": "Thông à, em có một cái đầu lạnh và một trái tim nóng — đúng thứ mà ban chủ nhiệm cần. Hãy tiếp tục là tiếng nói rõ ràng, là bước đi vững chãi của tập thể. Anh chị tin em."
+    },
+    {
+      "id": "minhduc",
+      "name": "Trần Minh Đức",
+      "roles": ["Thành Viên Ban Chuyên Môn"],
+      "avatar": "",
+      "orgLine": "Chính thức trở thành <strong>Thành Viên Ban Chủ Nhiệm</strong><br/>Chess Năng Khiếu — nhiệm kỳ 2026–2027",
+      "letter": "Trần Minh Đức thân mến, em hiện là thành viên Ban Chuyên Môn, và anh chị xin chúc mừng em trở thành thành viên Ban Chủ Nhiệm Chess Năng Khiếu nhiệm kỳ 2026–2027. Em là mảnh ghép mà ban chủ nhiệm rất cần — điềm tĩnh, chu đáo, và luôn nghĩ đến tập thể. Hãy cứ bước lên phía trước, anh chị và các bạn sẽ đồng hành cùng em."
+    },
+    {
+      "id": "naman",
+      "name": "Trì Nam An",
+      "roles": ["Thành Viên Ban Chủ Nhiệm"],
+      "avatar": "",
+      "orgLine": "Chính thức trở thành <strong>Thành Viên Ban Chủ Nhiệm</strong><br/>Chess Năng Khiếu — nhiệm kỳ 2026–2027",
+      "letter": "An à, em mang đến một sự chững chạc đáng tin cậy. Trong những lúc cần quyết đoán, anh chị tin em sẽ là người đứng ra gánh vác. Hãy cứ vững lòng, Core Team cần em."
+    },
+    {
+      "id": "thanh",
+      "name": "Vũ Đình Thanh",
+      "roles": ["Trưởng Ban Chuyên Môn Cờ Vua"],
+      "avatar": "",
+      "orgLine": "Chính thức trở thành <strong>Trưởng Ban Chuyên Môn Cờ Vua</strong><br/>Chess Năng Khiếu — nhiệm kỳ 2026–2027",
+      "letter": "Thanh à, cờ vua là con đường em chọn, và giờ em được trao cơ hội dẫn dắt những người cùng chung đam mê. Hãy truyền lửa đúng cách — bằng kỹ thuật, bằng tâm huyết, và bằng cả lòng kiên nhẫn trên bàn cờ."
+    },
+    {
+      "id": "thang",
+      "name": "Đỗ Mạnh Thắng",
+      "roles": ["Trưởng Ban Chuyên Môn Cờ Tướng"],
+      "avatar": "",
+      "orgLine": "Chính thức trở thành <strong>Trưởng Ban Chuyên Môn Cờ Tướng</strong><br/>Chess Năng Khiếu — nhiệm kỳ 2026–2027",
+      "letter": "Thắng thân mến, cờ tướng có những nét rất riêng — và em là người hiểu rõ nhất. Hãy giữ gìn tinh thần ấy, đưa nó đến với nhiều bạn hơn, và xây dựng một ban chuyên môn vững vàng. Anh chị tin em."
+    },
+    {
+      "id": "nhien",
+      "name": "Đỗ Tĩnh Nhiên",
+      "roles": ["Trưởng Ban Hậu Cần"],
+      "avatar": "",
+      "orgLine": "Chính thức trở thành <strong>Trưởng Ban Hậu Cần</strong><br/>Chess Năng Khiếu — nhiệm kỳ 2026–2027",
+      "letter": "Nhiên à, hậu cần là xương sống của mọi sự kiện — dù ít người nhìn thấy, nhưng thiếu nó thì chẳng gì trọn vẹn. Em nhận một vai trò thầm lặng nhưng quan trọng bậc nhất. Anh chị biết em sẽ làm rất tốt."
+    },
+    {
+      "id": "eric",
+      "name": "Đoàn Eric",
+      "roles": ["Trưởng Ban Nhân Sự"],
+      "avatar": "",
+      "orgLine": "Chính thức trở thành <strong>Trưởng Ban Nhân Sự</strong><br/>Chess Năng Khiếu — nhiệm kỳ 2026–2027",
+      "letter": "Eric à, nhân sự là trái tim của một tổ chức — hiểu người, dùng đúng người, giữ được người. Em có sự nhạy bén và lòng chân thành để làm điều đó. Hãy xây dựng một tập thể mà ai cũng muốn ở lại."
+    },
+    {
+      "id": "thaophuong",
+      "name": "Nguyễn Thảo Phương",
+      "roles": ["Trưởng Ban Truyền Thông — Đối Ngoại"],
+      "avatar": "",
+      "orgLine": "Chính thức trở thành <strong>Trưởng Ban Truyền Thông — Đối Ngoại</strong><br/>Chess Năng Khiếu — nhiệm kỳ 2026–2027",
+      "letter": "Phương à, em là gương mặt đại diện cho Chess Năng Khiếu ra bên ngoài — và em sẽ làm điều ấy thật đẹp. Hãy cứ tự tin kể câu chuyện của câu lạc bộ theo cách của em, thế giới sẽ lắng nghe."
+    }
+  ],
+  "letter": {
+    "opener": "Thư gửi",
+    "sign": "— Anh chị, Leaders Chess Năng Khiếu 2025 - 2026"
+  },
+  "roster": {
+    "title": "Leaders nhiệm kỳ 2026–2027",
+    "subtitle": "12 thành viên — và em là một trong số đó",
+    "youLabel": "Em",
+    "restartButton": "Đọc lại"
+  },
+  "notFound": {
+    "title": "Xin lỗi em",
+    "message": "Link này không thuộc về em, hoặc đã có gì đó nhầm lẫn. Hãy liên hệ lại với anh chị để nhận đúng link nhé",
+    "contactButton": "chessnangkhieu@gmail.com",
+    "contactEmail": "chessnangkhieu@gmail.com"
+  }
+}
