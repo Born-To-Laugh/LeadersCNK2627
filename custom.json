@@ -1,0 +1,175 @@
+{
+  "club": {
+    "name": "Chess Năng Khiếu",
+    "crest": "logoCNK.jpg",
+    "title": "Chess Năng Khiếu",
+    "favicon": "sth.png",
+    "tabTitle": "Kết Quả Leaders",
+    "shareDesc": "Kết quả tuyển chọn Leaders Chess Năng Khiếu 2026–2027",
+    "shareImage": "sth.png",
+    "subtitle": "Nhiệm kỳ 2025–2026",
+    "intro": "Kết quả tuyển chọn Leaders Chess Năng Khiếu 2026–2027",
+    "startButton": "Mở"
+  },
+  "lines": [
+    "Chào em,",
+    "Trong suốt những tháng qua, anh chị đã lặng lẽ theo dõi sự cố gắng của em",
+    "Mọi nỗ lực, mọi nhiệt huyết, mọi lần em cố gắng vì câu lạc bộ —",
+    "anh chị đều <em>thấy hết</em>",
+    "Và hôm nay, anh chị xin thông báo rằng..."
+  ],
+  "audio": {
+    "ambient": "backgroundmusic.mp3",
+    "celebration": "cele.mp3",
+    "openLetter": "paper.mp3",
+    "volume": 0.3,
+    "muted": false
+  },
+  "blaster": {
+    "emoji": "✉️",
+    "instruction": "Chạm 5 lần để mở thư!",
+    "requiredTaps": 5
+  },
+  "reveal": {
+    "eyebrow": "Chúc mừng em",
+    "quote": "Cờ dạy cho con người ta sự kiên nhẫn — và em đã chứng minh mình có đủ sự kiên nhẫn ấy để đi đến hôm nay."
+  },
+  "members": [
+    {
+      "id": "4744273712",
+      "name": "Phạm Viết Thiên Phước",
+      "roles": [
+        "Thành Viên Ban Chuyên Môn"
+      ],
+      "newRole": "Chủ Nhiệm",
+      "avatar": "phuoc.jpg",
+      "letter": "Hello Phước, vậy là 1 nhiệm kỳ làm việc chung của anh em mình cũng đã dần đến hồi kết rồi. Đầu tiên thì chúc mừng em đã trở thành Chủ nhiệm CLB và anh cũng không biết là em sẽ vui hay buồn với điều này=)). Nói chung chức cao sẽ đi kèm trách nhiệm, áp lực và nhiều thứ nên anh mong là em sẽ có thể xoay sở và thích nghi được với những khó khăn trên con đường sắp tới nhé. Hãy cố gắng cầm nhịp CLB, ra dáng 1 người cầm đầu, teamwork thật tốt và hạn chế im hơi lặng tiếp trong các hoạt động quá nhiều ha. Vì ở đây tụi anh không đi tìm Chủ nhiệm bù nhìn như 1 nhiệm kỳ nào đó trước đây:), và cá nhân anh cũng không muốn em đi vào vết xe đổ đó. Một lần nữa, chúc em sẽ đèo lái CLB vượt qua nhiệm kỳ 2627 thật thành công và xứng đáng với việc anh phải 1 vs 6 nhé. Nói chung cố gắng hết mình là được. Best wishes, cnn."
+    },
+    {
+      "id": "2720404816",
+      "name": "Lê Xuân Phúc Đức",
+      "roles": [
+        "Thành Viên Ban Chuyên Môn"
+      ],
+      "newRole": "Phó Chủ Nhiệm",
+      "avatar": "pduc.jpg",
+      "letter": "Hello Đức, thấm thoát cũng đã hết 1 nhiệm kỳ mình làm việc chung rồi nhỉ? Nhma thời gian ae mình bắt đầu nchuyen cũng chưa đến 9 tháng. Đầu tiên thì chúc mừng em đã trở thành Phó Chủ nhiệm CLB nhé. Vị trí mới này có lẽ ban đầu em sẽ thấy hơi lạ lẫm, thậm chí là áp lực, nhưng anh tin em sẽ sớm làm quen và vượt qua được những khó khăn trên con đường sắp tới. Anh cũng mong là em cân bằng được việc học, cuộc sống với công việc CLB để cán cân không bị quá lệch về 1 phía nào hết nhé. Và nhắc luôn là giữ gìn sức khỏe kỹ vào vì khi mình đã lên làm lãnh đạo thì cái sức khỏe thể chất lẫn tinh thần đều rất quan trọng, đảm bảo được nó mới giúp em không bị burnout,... Có thể giờ em thấy bình thường nhưng sau này chỉ cần trật nhịp 1 chút thôi là dễ oẳng đấy:). Một lần nữa, chúc em sẽ đèo lái CLB vượt qua nhiệm kỳ 2627 thật thành công và đạt được các mục tiêu học thuật mình mơ ước nhé. Best wishes, cnn."
+    },
+    {
+      "id": "3992443059",
+      "name": "Nguyễn Vương Xuân Yến",
+      "roles": [
+        "Thành Viên Ban Chuyên Môn"
+      ],
+      "newRole": "Phó Chủ Nhiệm",
+      "avatar": "xyen.jpg",
+      "letter": "Chao xìn Xuân Yến, vậy là em cũng đã đồng hành trọn vẹn cả 1 nhiệm kỳ cùng Chess Năng Khiếu. Hành trình ấy có lẽ sẽ thật mệt mỏi nhưng cũng chan chứa bao kỉ niệm đáng nhớ. Trước hết, anh chị muốn dành lời cảm ơn và trân trọng sâu sắc tới sự nhiệt huyết của em khi đã tham gia hầu hết các hoạt động của CNK trong nhiệm kỳ này, bao gồm cả 3 lần Bonding, 2 Giải đấu lớn và các hoạt động nhỏ khác. Tuy là em có hơi ít check tin nhắn và yap hơi ngáo đá nhưng em thực sự đã cống hiến rất nhiều cho CNK, tiêu biểu là những lần chạy staff cho Giải đấu, những lần remind deadline, bị ai đó bóc lột gửi mail, rải 1 đống post photo trong các group kín và làm sao con vùng lên trong 1 môi trường toàn SGP với Flash. Btw với những đóng góp của em thì chức Phó Chủ Nhiệm là hoàn toàn xứng đáng mà không cần phải bàn cãi. Nếu như lớp 10 em chỉ chọn CNK làm nhà, thì bây giờ chắc hẳn em đã hoàn toàn đủ tự tin để tiếp nhận việc quản lí căn nhà ấy rồi. Chúc xyen trong nhiệm kì 2026-2027 thật bản lĩnh như cnn, quyền lực như pún choả, tự tin như ban mai, cháy (go) như gbao, điềm tĩnh như ndinh, sigma như hnguyen và sẽ có thêm đệ trong tương lai như cách em làm đệ của mtriet nhé. Nhớ là, anh chị vẫn sẽ ở đấy, nên nếu gặp khó khăn gì đừng ngần ngại chia sẻ, anh chị sẽ luôn sẵn lòng giúp đỡ. 80% cơ thể là culi, 20% còn lại là năm sau làm culi tiếp nhé e=))))"
+    },
+    {
+      "id": "1524539323",
+      "name": "Trần Ngọc Phương Mai",
+      "roles": [
+        "Thành Viên Ban Nội Dung"
+      ],
+      "newRole": "Thành Viên Ban Chủ Nhiệm & Trưởng Ban Nội Dung — Thiết Kế",
+      "avatar": "pmai.jpg",
+      "letter": "Hisloo Phương Mai, cô bé năng nổ và productive của tôi oiwi. Có một điều mà ac thật sự ngưỡng mộ ở em Pmai đó chính là khả năng quản lí cũng như sắp xếp quỹ thời gian dành cho clb cũng như các hoạt động ở trường. Và ac nhận thấy là lúc nào e cũng luôn niềm nở 'đón nhận' những dl mà ac đặt ra dù gấp hay muộn hết =)))))) một điều nữa là ac cảm thấy khả năng lãnh đạo hay tổ chức các hđộng trong clb của e đều rất tốt, điều này e đã chứng minh cho ac thấy ở đợt bonding lần 3 tự quản vừa rồi của các em. Ac thsu rất ấn tượng với những ý tưởng của e đặt ra, rất tối ưu. Và hiển nhiên đó là những điều mà e đã thể hiện cho nki vừa qua để chứng minh rằng bản thân xứng đáng với chức vụ thành viên BOD. Có thể em sẽ hơi bất ngờ khi mình còn có thêm một chức vụ nữa là Head Nội Dung - Thiết Kế, nhưng ac nghĩ với khả năng và năng lực của e thì kh ai xứng đáng đảm nhận vai trò này hơn e cả, và ac tin là e Mai sẽ có thể cân bằng và làm tốt ở 2 vai trò thui. Một lần nữa, ac chúc mừng e và mong e sẽ cùng các bạn kiến tạo một nhiệm kì thật rực rỡ nhéee"
+    },
+    {
+      "id": "3674789097",
+      "name": "Trần Cao Thông",
+      "roles": [
+        "Thành Viên Ban Chuyên Môn"
+      ],
+      "newRole": "Thành Viên Ban Chủ Nhiệm",
+      "avatar": "thong.jpg",
+      "letter": "Hí LOo em, người em kế lụm luôn chiếc cup của KingViet mùa giải vua roi. Trong suốt nhiệm kì qua, ac rất đánh giá cao tinh thần làm việc của em trong clb cũng như sẵn sàng để CNK vắt kiệt 100%, eim Thông mặc dù trông có vẻ hướng lội nếu mới tiếp xúc nma ac nhận ra thsu là em rất chi là năng nổ cũng như có những chính kiến riêng trong mình. Và một điều nữa khiến ac rất ấn tượng đó chính là em Thông biết potential của mình có những gì và luôn tự tin vào bản thân. Và ac thật sự rất cảm kích những đóng góp, tình cảm của e dành cho CNK. Vì thế, nghiễm nhiên rằng ac nghĩ rằng e Thông rồi sẽ đảm nhận thật tốt vai trò thành viên BOD này thui. Anw hy vọng em sẽ cùng các bạn tạo ra một nhiệm kì CNK 26-27 thật bùng nổ nhéee"
+    },
+    {
+      "id": "8028376141",
+      "name": "Trần Minh Đức",
+      "roles": [
+        "Thành Viên Ban Chuyên Môn"
+      ],
+      "newRole": "Thành Viên Ban Chủ Nhiệm",
+      "avatar": "mduc.jpg",
+      "letter": "Ayooo hello Đức (Bo). Vậy là em cũng đã đồng hành trọn vẹn cả 1 nhiệm kỳ cùng Chess Năng Khiếu. Hành trình ấy có lẽ sẽ thật mệt mỏi nhưng cũng chan chứa bao kỉ niệm đáng nhớ. Trước hết, anh chị muốn dành lời cảm ơn và trân trọng sâu sắc tới sự nhiệt huyết của em khi đã tham gia hầu hết các hoạt động của CNK trong nhiệm kỳ này, bao gồm cả 3 lần Bonding, 2 Giải đấu lớn và các hoạt động nhỏ khác. Recap lại 1 năm cùng CNK thì chắc là làm culi ghi kết quả cho 2 giải đấu, culi mang máy tính trình chiếu, culi model giải co2, culi gửi mail (sai giờ), culi mua hài và còn mấy cái culi khác nữa không nhớ hết (yah sooo appreciate bro). Btw với những đóng góp đó thì việc em lên Thành viên Ban Chủ Nhiệm (aka culi cấp cao) là 1 điều hiển nhiên. Năm sau mà có may mắn đậu hsgqg thì thằng e cũng nhớ đừng quên CNK này nhé <33 Một chút nhắn nhủ là, dù có khắc nghiệt thế nào thì em cũng hãy luôn bình tĩnh, xác định rõ mục tiêu và dedicate cho nó. Đừng để những lời gièm pha làm nhụt chí bản thân, calm down, đừng bị cảm xúc kích động và cũng đừng bị nhiễu từ những điều không mong muốn. Có lẽ sẽ thật khó để không tránh khỏi, nhma anh chị luôn tin tưởng em sẽ handle và overcome được hết. Panik là bản năng, nhưng lấy lại bình tĩnh trong lúc panik và không bị sự tiêu cực ấy đánh bại mới là bản lĩnh! Thế nhé, nhiệm kì mới hứa hẹn sẽ thật rực rỡ nên em cứ thoả sức cháy (go). Chúng toi rất muốn nhìn thấy khả năng lãnh đạo, culi chạy việc và sự quyết đoán của Đức Bo. Nhớ là, anh chị vẫn sẽ ở đấy, nên nếu gặp khó khăn gì đừng ngần ngại chia sẻ, anh chị sẽ luôn sẵn lòng giúp đỡ. Bình tĩnh, tự tin, quyết thắng, không bị cảm xúc chi phối, chill with anime và không overload. Hope you feel better after all. 80% cơ thể là culi, 20% còn lại là năm sau làm culi tiếp nhé e=))))"
+    },
+    {
+      "id": "9588551042",
+      "name": "Trì Nam An",
+      "roles": [
+        "Thành Viên Câu Lạc Bộ"
+      ],
+      "newRole": "Thành Viên Ban Chủ Nhiệm",
+      "avatar": "andy.jpg",
+      "letter": "Ayooo hello Nam An(dy). Vậy là em cũng đã đồng hành trọn vẹn cả 1 nhiệm kỳ cùng Chess Năng Khiếu. Hành trình ấy có lẽ sẽ thật mệt mỏi nhưng cũng chan chứa bao kỉ niệm đáng nhớ. Trước hết, anh chị muốn dành lời cảm ơn và trân trọng sâu sắc tới sự nhiệt huyết của em khi đã tham gia hầu hết các hoạt động của CNK trong nhiệm kỳ này, bao gồm cả 3 lần Bonding, 2 Giải đấu lớn và các hoạt động nhỏ khác. Sooo appreciate Andy vì đã làm culi model, culi gửi mail, culi trọng tài cho các giải đấu lớn của CNK, và cả culi des slide bonding. Dù em có hơi kiệm lời nhưng btw nhiệm kỳ vừa rồi em đã làm rất tốt, cả về nhiệm vụ được giao và mua tiếng cười cho mn. Anh chị biết em đã cố gắng rất nhiều cho vị trí này, vì cả niềm yêu thích cờ vua, yêu CLB và cả cho con đường du học trong tương lai của em, và để đáp lại sự nhiệt huyết ấy, 1 trong 4 chiếc ghế Thành viên Ban Chủ Nhiệm (aka culi cấp cao) đã thuộc về Andy (fr thì cạnh tranh sức đầu mẻ trán, but congrat bro). Nhiệm kỳ mới em cứ tự tin lên nữa nhé! Một chút nhắn nhủ riêng thì chắc là phải cẩn thận hơn, nhưng mà lỡ có gặp tình huống tương tự như rt26 thì cũng đừng tự trách bản thân mình quá. Lo lắng sợ hãi và tự trách là bản năng, nhưng giữ được bình tĩnh và phối hợp cùng các bạn giải quyết vấn đề mới là bản lĩnh! Cũng đừng ngại không ăn được cay=))), dù sao trong nhiệm kỳ anh chị cũng có bmt không đụng được miếng đồ ăn cay dù ở mọi cấp độ nào tính cả cấp 0 <(“). Thế nhé, nhớ là active lên, kết nối hơn và em sẽ có 1 hành trình thật rực rỡ! Đừng quên là, anh chị vẫn sẽ ở đấy, nên nếu gặp khó khăn gì đừng ngần ngại chia sẻ, anh chị sẽ luôn sẵn lòng giúp đỡ. 80% cơ thể là culi, 20% còn lại là năm sau làm culi tiếp nhé e=))))"
+    },
+    {
+      "id": "9183694339",
+      "name": "Vũ Đình Thanh",
+      "roles": [
+        "Thành Viên Ban Chuyên Môn"
+      ],
+      "newRole": "Trưởng Ban Chuyên Môn Cờ Vua",
+      "avatar": "thanh.jpg",
+      "letter": "Chào Đình Thanh - bạn có chuyên môn thuộc hàng top đầu của CLB chúng ta. Cảm ơn em vì đã luôn nỗ lực, anh chị ghi nhận sự cố gắng của em và quyết định giao cho em chức vụ Head Chuyên môn trong nhiệm kỳ sắp tới. Anh chị tin rằng em sẽ phát huy hết được vai trò của bản thân với chức vụ này và hy vọng em sẽ cống hiến thật nhiệt cho CLB. Cuối cùng thì chúc em và các bạn sẽ có một nhiệm kỳ thật thành công trong năm tới nhé. Thân ái."
+    },
+    {
+      "id": "5380332104",
+      "name": "Đỗ Mạnh Thắng",
+      "roles": [
+        "Thành Viên Ban Chuyên Môn"
+      ],
+      "newRole": "Trưởng Ban Chuyên Môn Cờ Tướng",
+      "avatar": "thang.jpg",
+      "letter": "ÔI chao xìn cậu elm lâu ki nhưng vip pro về mảng cờ tướng nhất clb của chúng toai oii. Thời gian đầu tiếp xúc với mthang ac cứ ngỡ là em vào clb chỉ để thõa đam mê chơi cờ chứ sẽ ít để tâm đến những chuyện tổ chức giải đấu. Nma ac thiệc sự đã lầm khi thấy được những đóng góp cũng như tình yêu to bự của em dành cho clb. Từ những lần e nhắn lên những ý tưởng của bản thân mỗi lúc ac cần ý kiến chung của mn hay đi khắp nơi vay mượn bàn cờ của e, thậm chí lúc đọc form của e ac thật sự rất bất ngờ rằng là bạn này giữ trong lòng rất nhiều điều hơn là những gì bạn ấy đã thể hiện ra. Ac rất vui vì em Thắng kh chỉ coi đây là một nơi để em thỏa sức với đam mê cờ tướng của mình mà còn là chỗ mà em mong muốn được cống hiến, góp mặt nhiều hơn trong các công tác chuẩn bị và tổ chức giải đấu của clb. Và chị nghĩ là em cũng sẽ rất vui lòng khi được trở thành Head ban Chuyên Môn Cờ Tướng của clb. Since là hđộng cờ tướng của clb mình đó giờ vẫn chưa có được khởi phát mạnh lắm nên ac rất mong em và các bạn hãy cùng nhau tạo ra một nhiệm kì thật ý nghĩa và có nhiều hđ cờ tướng hơn, là sân chơi cho các bạn tv clb CNK 26-27 có thể tìm thấy đam mê cờ vua lẫn cờ tướng ở đây nhaa"
+    },
+    {
+      "id": "8097046109",
+      "name": "Đỗ Tĩnh Nhiên",
+      "roles": [
+        "Thành Viên Ban Hậu Cần"
+      ],
+      "newRole": "Trưởng Ban Hậu Cần",
+      "avatar": "nhien.jpg",
+      "letter": "HELooooo e Nhiên, mặc dù e là đứa vào trễ nhất group Core Team nhưng mà anh chị đã cảm nhận được năng lượng nhiệt huyết cũng như mong muốn được cống hiến hết mình của em qua mùa giải vừa rồi. E Nhiên vừa siêng năng lại còn khá hướng ngoại nên ac nghĩ rằng vị trí Head Hậu Cần này dành cho em là hoàn toàn xứng đáng. Hy vọng đây sẽ là bước đệm đầu tiên giúp em Nhiên có thể bùng cháy hơn về các công tác chuẩn bị giải đấu của clb. VÀ NHỚ HÃY RẮN RỎI LÊN NHA ELM, đừng để mí bạn ngồi đầu cưỡi cổ, phải bit dằn mặt lại cno. Anw, chúc mừng em đã trở thành lực lượng Leaders trong CNK nhiệm kì 26-27 nhesee."
+    },
+    {
+      "id": "7453449182",
+      "name": "Đoàn Eric",
+      "roles": [
+        "Thành Viên Ban Chuyên Môn"
+      ],
+      "newRole": "Trưởng Ban Nhân Sự",
+      "avatar": "eric.jpg",
+      "letter": "Chào Eric, người luôn năng nổ trong hoạt động của CLB trong nhiệm kỳ vừa qua. Cảm ơn em vì đã luôn nỗ lực, anh chị ghi nhận sự cố gắng của em và quyết định giao cho em chức vụ Head Nhân Sự trong nhiệm kỳ sắp tới. Dù biết đây không phải là mong muốn của em nhưng anh chị mong em vẫn tiếp tục cống hiến cho CLB, làm việc thật nhiệt với tất cả các bạn trong Core Team. Cuối cùng thì chúc em và các bạn sẽ có một nhiệm kỳ thật thành công trong năm tới nhé. Thân ái."
+    },
+    {
+      "id": "4323004403",
+      "name": "Nguyễn Thảo Phương",
+      "roles": [
+        "Thành Viên Ban Chuyên Môn"
+      ],
+      "newRole": "Trưởng Ban Truyền Thông — Đối Ngoại",
+      "avatar": "tphuong.jpg",
+      "letter": "Cin haofoo e Thảo Phương, cô bé kiệm lời nhưng luôn dùng hành động để chứng minh tình iu của mình dành cho clb. Thảo Phương là một người mà ac để ý luôn cố gắng hoàn thành dl clb thật rốp rẻng và sẽ chẳng bao giờ than phiền hay chậm trễ cả. Em cũng là nhân vật đóng góp cho bài đăng được nhiều lượt reacts nhất tính đến thời điểm hiện tại của CNK í=))))))) và ac thật sự rất quý trọng sự 'hy sinh' đó của em Phương. Và có một điều là ac đều nghĩ rằng e luôn có một sự cầu toàn cũng như tỉ mỉ trong công việc. Vì thế vị trí Head Truyền Thông - Đối Ngoại mà ac đã pick cho em có lẽ sẽ là một cơ hội tốt để em bước ra khỏi vùng an toàn của chính bản thân mình. Anw, chúc em và các bạn sẽ cùng tạo ra một nhiệm kì 26-27 của CNK thật cháy hơn ff nhée"
+    }
+  ],
+  "letter": {
+    "opener": "Thư gửi",
+    "sign": "— Anh chị, Leaders Chess Năng Khiếu 2025 - 2026"
+  },
+  "roster": {
+    "title": "Leaders nhiệm kỳ 2026–2027",
+    "subtitle": "12 thành viên — và em là một trong số đó",
+    "youLabel": "Em",
+    "restartButton": "Đọc lại"
+  },
+  "notFound": {
+    "title": "Xin lỗi em",
+    "message": "Link này không thuộc về em, hoặc đã có gì đó nhầm lẫn. Hãy liên hệ lại với anh chị để nhận đúng link nhé",
+    "contactButton": "chessnangkhieu@gmail.com",
+    "contactEmail": "chessnangkhieu@gmail.com"
+  }
+}
