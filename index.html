@@ -432,7 +432,6 @@
         .then(r => r.json())
         .then(applyConfig)
         .catch(() => {
-          // Fallback tối giản, không cần dùng đến vì JSON đầy đủ
           console.error('Không thể tải custom.json');
         });
     }
